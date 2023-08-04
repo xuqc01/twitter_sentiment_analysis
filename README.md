@@ -1,5 +1,9 @@
 # twitter_sentiment_analysis
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/xuqc01/twitter_sentiment_analysis/assets/38637431/68380857-9b8f-4b76-b255-0bee0c8ab3ce">
+</p>
+
 **Authors**: Maddie Smithers, Steven Hui
 
 ## Overview
