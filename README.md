@@ -41,11 +41,13 @@ Through cleaning, anlayzing, and pre-processing our dataset, our team was able t
 
 ## Future Insights
 
--**Consider Tweets from other events**: Tweets from other events may incorporate different opinions than the ones that were just found in South by Southwest.
+Based on our analaysis of the dataset, our team finds three main recommendations for Apple:
 
--**Focus on Tweets that mention competitors**: It's important to focus on Tweets that specifically mention competitors because it reveals their advantages and disadvantages over the Apple product which will enable Apple to adjust and improve accordingly. 
+--**Focus on improving the battery life of the iPhone.** This was the most common complaint of customers, and we believe this change could lead to a more positive sentiment for Apple overall.
 
--**Create a model that incorporates neutral tweets**: Our current model only has positive and negative Tweets. The inclusion of netural tweets may improve the overall performance of our model since it has exposure to a larger range of Tweets. 
+--**Further assess tweets comparing the iPhone to competitors.** We found many tweets discussing the differences betwen iPhone and its main competitors (at the time): Blackberry and Android. By digging into these tweets, Apple can better strategize ways to retain existing customers and attract new customers.
+
+--**Address long lines at Apple stores**: These tweets were specifically regarding the Apple pop-up store at the SXSW convention. We saw many tweets complaining about the length of the line, or the resulting traffic brought on by the pop-up store. While lines can generate excitement, they can also deter many potential customers or store visitors. Because of this, we would recommend implementing another way for users to purchase new items, such as a digital line.
 
 ## For More Information
 
@@ -53,10 +55,9 @@ Read the full analysis in our [Jupyter Notebook](https://github.com/xuqc01/twitt
 
 ## Repository Structure
 
-├── Data
+├── Notebook with Analysis (P4ProjectNotebook.ipynb)
 
-├── Flu_Analysis.pdf
+├── README.md
 
-├── Flu_Analysis_notebook.ipynb
+├── Data (cg_tweets_final.csv)
 
-├── Flu_Analysis_notebook.pdf
